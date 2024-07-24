@@ -43,4 +43,3 @@ The Library Manager is a digital library management system designed to manage bo
 - **Displaying Library Summary:** Click the "Display Summary" button to view the current library status.
 - **Duplicating a Book:** Click the "Duplicate Book" button and enter the book title.
 
-## Project Structure
